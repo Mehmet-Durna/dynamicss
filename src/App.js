@@ -7,5 +7,5 @@ function App() {
         <MenuCard products={PRODUCTS_DATA} />
     );
 }
-//sadasdsadsadsa
+
 export default App;
