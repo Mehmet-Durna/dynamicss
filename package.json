@@ -1,10 +1,10 @@
 {
+  "homepage": ".",
   "name": "dynamic_exercises",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
     "nth-check": ">=2.0.1",
-    "homepage": ".",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
